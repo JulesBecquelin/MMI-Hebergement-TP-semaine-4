@@ -1,1 +1,0 @@
-const redirection = document.querySelector("")
